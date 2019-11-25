@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import BoxLogin from './../BoxLogin';
 import { Link } from 'react-router-dom';
 
